@@ -1,0 +1,14 @@
+body{
+  background-color: green;
+}
+.top-row{
+  background-color: red;
+}
+.bottom-row{background-color: pink;
+padding-top:  20px;
+padding-bottom:  20px;
+}
+
+.card-img-top{
+  height: 118px;
+}
